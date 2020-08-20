@@ -1,1 +1,1 @@
-# Deep-Learning
+# Churn modeling using CNN and ANN architecture
